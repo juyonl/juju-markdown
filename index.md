@@ -9,3 +9,6 @@ I am learning how to use GitHub properly
 $git init
 Initializd empty git repository in /Users/skills/Projects/recipe-repository/.git/
 ```
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
